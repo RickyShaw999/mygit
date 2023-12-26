@@ -9,5 +9,5 @@ ricky
 zyx
 abc
 cba
-Git is a free software and I love it.
+Git is a free software and I love it, but it is so hard.
 doing...
